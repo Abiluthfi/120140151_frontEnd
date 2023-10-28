@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Sepatu rebook",
+    "price": 102.1,
+    "imgUrl": "/imgs/reebok.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sepatu Convers",
+    "price": 20.3,
+    "imgUrl": "/imgs/convers.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sepatu Adidas",
+    "price": 13.05,
+    "imgUrl": "/imgs/adidas.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sepatu Nike",
+    "price": 32.0,
+    "imgUrl": "/imgs/nike.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sepatu Aerostreet",
+    "price": 32.0,
+    "imgUrl": "/imgs/aero.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sepatu Futsal",
+    "price": 35.0,
+    "imgUrl": "/imgs/futsal.jpg"
+  }
+]
